@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/first-react/static/css/main.f727ea4f.chunk.css",
-    "main.js": "/first-react/static/js/main.a16cdd1f.chunk.js",
-    "main.js.map": "/first-react/static/js/main.a16cdd1f.chunk.js.map",
-    "runtime-main.js": "/first-react/static/js/runtime-main.4ccc2f39.js",
-    "runtime-main.js.map": "/first-react/static/js/runtime-main.4ccc2f39.js.map",
-    "static/js/2.663236de.chunk.js": "/first-react/static/js/2.663236de.chunk.js",
-    "static/js/2.663236de.chunk.js.map": "/first-react/static/js/2.663236de.chunk.js.map",
-    "index.html": "/first-react/index.html",
-    "static/css/main.f727ea4f.chunk.css.map": "/first-react/static/css/main.f727ea4f.chunk.css.map",
-    "static/js/2.663236de.chunk.js.LICENSE.txt": "/first-react/static/js/2.663236de.chunk.js.LICENSE.txt"
+    "main.css": "/Tb-app/static/css/main.f727ea4f.chunk.css",
+    "main.js": "/Tb-app/static/js/main.a16cdd1f.chunk.js",
+    "main.js.map": "/Tb-app/static/js/main.a16cdd1f.chunk.js.map",
+    "runtime-main.js": "/Tb-app/static/js/runtime-main.3b1ed195.js",
+    "runtime-main.js.map": "/Tb-app/static/js/runtime-main.3b1ed195.js.map",
+    "static/js/2.663236de.chunk.js": "/Tb-app/static/js/2.663236de.chunk.js",
+    "static/js/2.663236de.chunk.js.map": "/Tb-app/static/js/2.663236de.chunk.js.map",
+    "index.html": "/Tb-app/index.html",
+    "static/css/main.f727ea4f.chunk.css.map": "/Tb-app/static/css/main.f727ea4f.chunk.css.map",
+    "static/js/2.663236de.chunk.js.LICENSE.txt": "/Tb-app/static/js/2.663236de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ccc2f39.js",
+    "static/js/runtime-main.3b1ed195.js",
     "static/js/2.663236de.chunk.js",
     "static/css/main.f727ea4f.chunk.css",
     "static/js/main.a16cdd1f.chunk.js"
